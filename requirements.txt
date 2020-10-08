@@ -1,4 +1,4 @@
 bqplot
 numpy
 ipywidgets
-voila
+voila==0.2.2
