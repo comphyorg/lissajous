@@ -1,3 +1,4 @@
 bqplot
 numpy
 ipywidgets
+voila
