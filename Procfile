@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser LISSAJOUS_FIGURES.ipynb
+web: voila --port=$PORT --no-browser --use-xheaders LISSAJOUS_FIGURES.ipynb
